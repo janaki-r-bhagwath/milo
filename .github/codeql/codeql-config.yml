@@ -1,0 +1,5 @@
+name: "Milo CodeQL Config"
+
+paths-ignore:
+  - 'tools/translation/**'
+  - node_modules
